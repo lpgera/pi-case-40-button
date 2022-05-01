@@ -10,7 +10,7 @@
   "author": "lpgera",
   "license": "MIT",
   "dependencies": {
-    "dotenv": "^8.2.0",
-    "onoff": "^6.0.1"
+    "dotenv": "^16.0.0",
+    "onoff": "^6.0.3"
   }
 }
