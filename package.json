@@ -2,15 +2,15 @@
   "name": "pi-case-40-button",
   "version": "1.0.0",
   "description": "A small app to customize the Cooler Master Pi Case 40 power button",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "keywords": [],
   "author": "lpgera",
   "license": "MIT",
   "dependencies": {
-    "dotenv": "^16.0.0",
+    "dotenv": "^16.0.1",
     "onoff": "^6.0.3"
   }
 }
